@@ -1,18 +1,37 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/unde-delectus-corporis-commodi",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "Fast query string parser and has most features of `qs`",
+  "type": "module",
+  "main": "index.mjs",
+  "keywords": [
+    "qs",
+    "querystring",
+    "parse",
+    "parser"
+  ],
+  "author": "ellentea",
   "license": "MIT",
+  "dependencies": {
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "fast-querystring": "^1.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mitata": "^0.1.6",
+    "mocha": "^10.2.0",
+    "qs": "^6.11.2"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/supernpm2024/unde-delectus-corporis-commodi.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/supernpm2024/unde-delectus-corporis-commodi/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/unde-delectus-corporis-commodi/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
